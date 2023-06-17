@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prototype</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">dashboard_fragment</string>
+    <string name="scanner_fragment">scanner_fragment</string>
+    <string name="orders_fragment">orders_fragment</string>
+    <string name="low_stock_alerts" />
+</resources>
