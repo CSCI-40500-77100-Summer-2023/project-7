@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
                 replaceFragment(new ScannerFragment());
             } else if (id == R.id.orders) {
                 replaceFragment(new OrdersFragment());
+            } else if (id == R.id.settings){
+                replaceFragment(new SettingsFragment());
             }
             return true;
         });
