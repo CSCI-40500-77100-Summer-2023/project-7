@@ -6,4 +6,6 @@ This is an android inventory management application. To run this prototype you n
 
 For the updated prototype, we added some features, including a recent activity button for every item, color-coded each item to indicate if they are moveable or non-moveable, a search bar in the dashboard to quickly find a specific item, the settings fragment that includes information about user privileges and button to request privileges. The prototype extension also includes an updated front-end UI.
  
-# Software Architecture
+## Software Architecture
+
+The most important qualities of our software are Usability, Availability (non-functional product characteristics), and product lifetime. 
