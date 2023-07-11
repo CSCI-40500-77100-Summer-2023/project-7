@@ -10,4 +10,4 @@ For the updated prototype, we added some features, including a recent activity b
 
 The most important qualities of our software are **usability**, **availability** (non-functional product characteristics), and **product lifetime**. 
 
-![alt text](https://github.com/CSCI-40500-77100-Summer-2023/project-7/blob/master/ArchDiagram.pdf)
+[embed](https://github.com/CSCI-40500-77100-Summer-2023/project-7/blob/master/ArchDiagram.pdf)[/embed]
