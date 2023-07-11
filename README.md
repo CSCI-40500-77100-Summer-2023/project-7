@@ -8,4 +8,6 @@ For the updated prototype, we added some features, including a recent activity b
  
 ## Software Architecture
 
-The most important qualities of our software are Usability, Availability (non-functional product characteristics), and product lifetime. 
+The most important qualities of our software are **usability**, **availability** (non-functional product characteristics), and **product lifetime**. 
+
+
