@@ -11,3 +11,7 @@ For the updated prototype, we added some features, including a recent activity b
 The most important qualities of our software are **usability**, **availability** (non-functional product characteristics), and **product lifetime**. 
 
 ![alt text](https://github.com/CSCI-40500-77100-Summer-2023/project-7/blob/master/ArchDiagram.png)
+
+
+### Technologies 
+Our software product will use a relational SQL database due to the structured nature of the data being used. We are keeping track of inventory including number of items, identification for items, item locations and comments. The platform will be a mobile app. We will use a cloud service to provide servers. Further, we will be using open source components to implement in the app such as the barcode scanner.
