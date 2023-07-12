@@ -8,7 +8,7 @@ For the updated prototype, we added some features, including a recent activity b
  
 ## Software Architecture
 
-The most important qualities of our software are **usability**, **availability** (non-functional product characteristics), and **product lifetime**. 
+The most important qualities of our software are **usability**, **availability** (non-functional product characteristics), and **product lifetime**. To optimize usability, our architecture requires only one layer of authentication where the user logins with their employee ID. To optimize availability our architecture includes a replica database, to ensure data availability if something goes wrong with the original database. Further, our architecture is simple and self-contained which will simplify any changes and adjustments made in the future.
 
 ![alt text](https://github.com/CSCI-40500-77100-Summer-2023/project-7/blob/master/ArchDiagram.png)
 
